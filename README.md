@@ -19,7 +19,7 @@ Os mecânicos possuem código, nome, endereço e especialidade.
 Cada OS possui: n°, data de emissão, um valor, status e uma data para conclusão dos trabalhos.
 
 # Modelo Proposto
-<img src="https://github.com/macgyer73/ProjetoOficina/blob/main/Files/OS-template.png" alt="Modelo Oficina Proposto">
+<img src="https://github.com/macgyer73/ProjetoOficina/blob/main/Files/oficina.png" alt="Modelo Oficina Proposto">
 
 Sistema de Cadastro unico, para facilitar dados em comum, Entidades Mecanicos e Cliente.
 Criado Entidade Veiculo- pois cada cliente pode ter mais de 1 veiculo.
